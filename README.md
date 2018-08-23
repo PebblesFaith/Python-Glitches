@@ -1,0 +1,2 @@
+# Python-Glitches
+I have been working on a task project onto Python's Jupyter Notebooks then ran a cell then suddenly I have received an error message: 404 Not Found, you are requesting a page that does not exist.  How strange, my library name website "https://notebooks.azure.com/eric/libraries/DEV274x" does not display any file (.ipynb) details only, the error messages when I had attemptted to oppen the file (.ipynb).  Please advice me in the matter.
